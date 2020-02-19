@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 It was the age of wisdom
 
 Changed
+=======
+ghhggf
+hghh
+>>>>>>> alient-plot
